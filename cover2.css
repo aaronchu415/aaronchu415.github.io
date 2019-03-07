@@ -1,0 +1,26 @@
+.my_col {
+  margin-bottom: 20px;
+}
+
+.my_card {
+  background-color: rgb(31, 37, 41);
+  color: white
+}
+
+.my_jumbo {
+  background-color:rgba(8, 14, 19, 0.87);
+  color:whitesmoke
+}
+
+.otherLinks {
+  margin: 10px
+}
+
+.card-text {
+  color: blanchedalmond;
+  font-size: 12px
+}
+
+.projectLink {
+  text-decoration: none
+}
